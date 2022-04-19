@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1621189165 source:c:\users\dausse\documents\projet_perso\c++\test\main.cpp
+	<iostream>
+	"Duree.h"
+
+1622046553 c:\users\dausse\documents\projet_perso\c++\test\duree.h
+	<iostream>
+
+1621189165 source:c:\users\dausse\documents\projet_perso\c++\test\duree.cpp
+	"Duree.h"
+	<iostream>
+
+1622218453 source:c:\users\dausse\documents\projet_perso\c++\classe_duree\duree.cpp
+	"Duree.h"
+	<iostream>
+
+1622218504 c:\users\dausse\documents\projet_perso\c++\classe_duree\duree.h
+	<iostream>
+
+1622218453 source:c:\users\dausse\documents\projet_perso\c++\classe_duree\main.cpp
+	<iostream>
+	"Duree.h"
+

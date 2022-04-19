@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1622200125 source:c:\users\dausse\documents\projet_perso\c++\les_heritages\main.cpp
+	<iostream>
+	"Personnage.h"
+	"Guerrier.h"
+
+1620830272 source:c:\users\dausse\documents\projet_perso\c++\les_heritages\arme.cpp
+	"Arme.h"
+
+1620815420 c:\users\dausse\documents\projet_perso\c++\les_heritages\arme.h
+	<iostream>
+	<string>
+
+1622200534 source:c:\users\dausse\documents\projet_perso\c++\les_heritages\personnage.cpp
+	"Personnage.h"
+	"Guerrier.h"
+
+1622200455 c:\users\dausse\documents\projet_perso\c++\les_heritages\personnage.h
+	<iostream>
+	<string>
+
+1622200388 source:c:\users\dausse\documents\projet_perso\c++\les_heritages\guerrier.cpp
+	"Guerrier.h"
+
+1622200534 c:\users\dausse\documents\projet_perso\c++\les_heritages\guerrier.h
+	<iostream>
+	<string>
+	"Personnage.h"
+
+1622200087 source:c:\users\dausse\documents\projet_perso\c++\les_heritages\src\magicien.cpp
+	"Magicien.h"
+
+1622199835 c:\users\dausse\documents\projet_perso\c++\les_heritages\include\magicien.h
+	<iostream>
+	<string>
+	"Personnage.h"
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1613067157 source:c:\users\dausse\documents\projet perso\jeu du pendu\correction\dico.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"dico.h"
+
+1613065924 c:\users\dausse\documents\projet perso\jeu du pendu\correction\dico.h
+
+1613066034 source:c:\users\dausse\documents\projet perso\jeu du pendu\correction\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"dico.h"
+

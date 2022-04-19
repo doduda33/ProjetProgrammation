@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1610905565 source:c:\users\dausse\documents\projet perso\projet n°1\jeu plus ou moins.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1611246867 source:c:\users\dausse\documents\projet perso\projet n°1\main.c
+	<stdio.h>
+	<stdlib.h>
+

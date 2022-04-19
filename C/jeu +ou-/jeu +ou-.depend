@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610910182 source:c:\users\dausse\documents\projet perso\jeu +ou-\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1611067698 source:c:\users\dausse\documents\projet_perso\c\jeu +ou-\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

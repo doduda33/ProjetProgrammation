@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611249242 source:c:\users\dausse\documents\projet perso\project\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611266721 source:c:\users\dausse\documents\projet perso\jeu du pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+

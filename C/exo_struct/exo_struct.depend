@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1611226562 source:c:\users\dausse\documents\projet perso\exo_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1611225184 c:\users\dausse\documents\projet perso\exo_struct\main.h
+
+1649690020 source:c:\users\dausse\documents\projet_perso\c\exo_struct\main.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1611228784 c:\users\dausse\documents\projet_perso\c\exo_struct\main.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1620386145 source:c:\users\dausse\documents\projet_perso\c++\mot_mystere\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<fstream>
+

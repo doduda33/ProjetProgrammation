@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620830338 source:c:\users\dausse\documents\projet_perso\c++\jeurpg\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Personnage.h"
+
+1620822706 c:\users\dausse\documents\projet_perso\c++\jeurpg\include\personnage.h
+	<iostream>
+	<string>
+	"Arme.h"
+
+1620815420 c:\users\dausse\documents\projet_perso\c++\jeurpg\include\arme.h
+	<iostream>
+	<string>
+
+1620830272 source:c:\users\dausse\documents\projet_perso\c++\jeurpg\src\arme.cpp
+	"Arme.h"
+
+1620830338 source:c:\users\dausse\documents\projet_perso\c++\jeurpg\src\personnage.cpp
+	"Personnage.h"
+	<string>
+

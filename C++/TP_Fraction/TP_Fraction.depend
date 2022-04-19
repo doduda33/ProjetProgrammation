@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1622136037 source:c:\users\dausse\documents\projet_perso\c++\tp_fraction\src\zfraction.cpp
+	"ZFraction.h"
+
+1622136387 c:\users\dausse\documents\projet_perso\c++\tp_fraction\include\zfraction.h
+	<iostream>
+	<cmath>
+
+1622136159 source:c:\users\dausse\documents\projet_perso\c++\tp_fraction\main.cpp
+	<iostream>
+	<cmath>
+	"ZFraction.h"
+
